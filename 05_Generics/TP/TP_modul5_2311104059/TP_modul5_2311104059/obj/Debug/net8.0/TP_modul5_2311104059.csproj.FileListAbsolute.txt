@@ -1,0 +1,14 @@
+C:\Users\zhafi\source\repos\TP_modul5_2311104059\TP_modul5_2311104059\bin\Debug\net8.0\TP_modul5_2311104059.exe
+C:\Users\zhafi\source\repos\TP_modul5_2311104059\TP_modul5_2311104059\bin\Debug\net8.0\TP_modul5_2311104059.deps.json
+C:\Users\zhafi\source\repos\TP_modul5_2311104059\TP_modul5_2311104059\bin\Debug\net8.0\TP_modul5_2311104059.runtimeconfig.json
+C:\Users\zhafi\source\repos\TP_modul5_2311104059\TP_modul5_2311104059\bin\Debug\net8.0\TP_modul5_2311104059.dll
+C:\Users\zhafi\source\repos\TP_modul5_2311104059\TP_modul5_2311104059\bin\Debug\net8.0\TP_modul5_2311104059.pdb
+C:\Users\zhafi\source\repos\TP_modul5_2311104059\TP_modul5_2311104059\obj\Debug\net8.0\TP_modul5_2311104059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhafi\source\repos\TP_modul5_2311104059\TP_modul5_2311104059\obj\Debug\net8.0\TP_modul5_2311104059.AssemblyInfoInputs.cache
+C:\Users\zhafi\source\repos\TP_modul5_2311104059\TP_modul5_2311104059\obj\Debug\net8.0\TP_modul5_2311104059.AssemblyInfo.cs
+C:\Users\zhafi\source\repos\TP_modul5_2311104059\TP_modul5_2311104059\obj\Debug\net8.0\TP_modul5_2311104059.csproj.CoreCompileInputs.cache
+C:\Users\zhafi\source\repos\TP_modul5_2311104059\TP_modul5_2311104059\obj\Debug\net8.0\TP_modul5_2311104059.dll
+C:\Users\zhafi\source\repos\TP_modul5_2311104059\TP_modul5_2311104059\obj\Debug\net8.0\refint\TP_modul5_2311104059.dll
+C:\Users\zhafi\source\repos\TP_modul5_2311104059\TP_modul5_2311104059\obj\Debug\net8.0\TP_modul5_2311104059.pdb
+C:\Users\zhafi\source\repos\TP_modul5_2311104059\TP_modul5_2311104059\obj\Debug\net8.0\TP_modul5_2311104059.genruntimeconfig.cache
+C:\Users\zhafi\source\repos\TP_modul5_2311104059\TP_modul5_2311104059\obj\Debug\net8.0\ref\TP_modul5_2311104059.dll
