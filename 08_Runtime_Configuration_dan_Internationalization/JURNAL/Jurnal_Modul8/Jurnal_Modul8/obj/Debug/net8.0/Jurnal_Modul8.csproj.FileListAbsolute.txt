@@ -1,0 +1,14 @@
+C:\Users\zhafi\source\repos\Jurnal_Modul8\Jurnal_Modul8\bin\Debug\net8.0\Jurnal_Modul8.exe
+C:\Users\zhafi\source\repos\Jurnal_Modul8\Jurnal_Modul8\bin\Debug\net8.0\Jurnal_Modul8.deps.json
+C:\Users\zhafi\source\repos\Jurnal_Modul8\Jurnal_Modul8\bin\Debug\net8.0\Jurnal_Modul8.runtimeconfig.json
+C:\Users\zhafi\source\repos\Jurnal_Modul8\Jurnal_Modul8\bin\Debug\net8.0\Jurnal_Modul8.dll
+C:\Users\zhafi\source\repos\Jurnal_Modul8\Jurnal_Modul8\bin\Debug\net8.0\Jurnal_Modul8.pdb
+C:\Users\zhafi\source\repos\Jurnal_Modul8\Jurnal_Modul8\obj\Debug\net8.0\Jurnal_Modul8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhafi\source\repos\Jurnal_Modul8\Jurnal_Modul8\obj\Debug\net8.0\Jurnal_Modul8.AssemblyInfoInputs.cache
+C:\Users\zhafi\source\repos\Jurnal_Modul8\Jurnal_Modul8\obj\Debug\net8.0\Jurnal_Modul8.AssemblyInfo.cs
+C:\Users\zhafi\source\repos\Jurnal_Modul8\Jurnal_Modul8\obj\Debug\net8.0\Jurnal_Modul8.csproj.CoreCompileInputs.cache
+C:\Users\zhafi\source\repos\Jurnal_Modul8\Jurnal_Modul8\obj\Debug\net8.0\Jurnal_Modul8.dll
+C:\Users\zhafi\source\repos\Jurnal_Modul8\Jurnal_Modul8\obj\Debug\net8.0\refint\Jurnal_Modul8.dll
+C:\Users\zhafi\source\repos\Jurnal_Modul8\Jurnal_Modul8\obj\Debug\net8.0\Jurnal_Modul8.pdb
+C:\Users\zhafi\source\repos\Jurnal_Modul8\Jurnal_Modul8\obj\Debug\net8.0\Jurnal_Modul8.genruntimeconfig.cache
+C:\Users\zhafi\source\repos\Jurnal_Modul8\Jurnal_Modul8\obj\Debug\net8.0\ref\Jurnal_Modul8.dll
