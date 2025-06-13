@@ -1,0 +1,14 @@
+C:\Users\zhafi\source\repos\modul15_2411104059\modul15_2411104059\bin\Debug\net8.0\modul15_2411104059.exe
+C:\Users\zhafi\source\repos\modul15_2411104059\modul15_2411104059\bin\Debug\net8.0\modul15_2411104059.deps.json
+C:\Users\zhafi\source\repos\modul15_2411104059\modul15_2411104059\bin\Debug\net8.0\modul15_2411104059.runtimeconfig.json
+C:\Users\zhafi\source\repos\modul15_2411104059\modul15_2411104059\bin\Debug\net8.0\modul15_2411104059.dll
+C:\Users\zhafi\source\repos\modul15_2411104059\modul15_2411104059\bin\Debug\net8.0\modul15_2411104059.pdb
+C:\Users\zhafi\source\repos\modul15_2411104059\modul15_2411104059\obj\Debug\net8.0\modul15_2411104059.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhafi\source\repos\modul15_2411104059\modul15_2411104059\obj\Debug\net8.0\modul15_2411104059.AssemblyInfoInputs.cache
+C:\Users\zhafi\source\repos\modul15_2411104059\modul15_2411104059\obj\Debug\net8.0\modul15_2411104059.AssemblyInfo.cs
+C:\Users\zhafi\source\repos\modul15_2411104059\modul15_2411104059\obj\Debug\net8.0\modul15_2411104059.csproj.CoreCompileInputs.cache
+C:\Users\zhafi\source\repos\modul15_2411104059\modul15_2411104059\obj\Debug\net8.0\modul15_2411104059.dll
+C:\Users\zhafi\source\repos\modul15_2411104059\modul15_2411104059\obj\Debug\net8.0\refint\modul15_2411104059.dll
+C:\Users\zhafi\source\repos\modul15_2411104059\modul15_2411104059\obj\Debug\net8.0\modul15_2411104059.pdb
+C:\Users\zhafi\source\repos\modul15_2411104059\modul15_2411104059\obj\Debug\net8.0\modul15_2411104059.genruntimeconfig.cache
+C:\Users\zhafi\source\repos\modul15_2411104059\modul15_2411104059\obj\Debug\net8.0\ref\modul15_2411104059.dll
