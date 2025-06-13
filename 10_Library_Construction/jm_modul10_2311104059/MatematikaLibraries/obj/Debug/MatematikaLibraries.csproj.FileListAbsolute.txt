@@ -1,0 +1,6 @@
+C:\Users\zhafi\source\repos\jm_modul10_2311104059\MatematikaLibraries\bin\Debug\MatematikaLibraries.dll
+C:\Users\zhafi\source\repos\jm_modul10_2311104059\MatematikaLibraries\bin\Debug\MatematikaLibraries.pdb
+C:\Users\zhafi\source\repos\jm_modul10_2311104059\MatematikaLibraries\obj\Debug\MatematikaLibraries.csproj.AssemblyReference.cache
+C:\Users\zhafi\source\repos\jm_modul10_2311104059\MatematikaLibraries\obj\Debug\MatematikaLibraries.csproj.CoreCompileInputs.cache
+C:\Users\zhafi\source\repos\jm_modul10_2311104059\MatematikaLibraries\obj\Debug\MatematikaLibraries.dll
+C:\Users\zhafi\source\repos\jm_modul10_2311104059\MatematikaLibraries\obj\Debug\MatematikaLibraries.pdb

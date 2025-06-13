@@ -1,0 +1,10 @@
+C:\Users\zhafi\source\repos\tpmodul10_2311104059\AljabarConsoleApp\bin\Debug\AljabarConsoleApp.exe.config
+C:\Users\zhafi\source\repos\tpmodul10_2311104059\AljabarConsoleApp\bin\Debug\AljabarConsoleApp.exe
+C:\Users\zhafi\source\repos\tpmodul10_2311104059\AljabarConsoleApp\bin\Debug\AljabarConsoleApp.pdb
+C:\Users\zhafi\source\repos\tpmodul10_2311104059\AljabarConsoleApp\bin\Debug\AljabarLibraries.dll
+C:\Users\zhafi\source\repos\tpmodul10_2311104059\AljabarConsoleApp\bin\Debug\AljabarLibraries.pdb
+C:\Users\zhafi\source\repos\tpmodul10_2311104059\AljabarConsoleApp\obj\Debug\AljabarConsoleApp.csproj.AssemblyReference.cache
+C:\Users\zhafi\source\repos\tpmodul10_2311104059\AljabarConsoleApp\obj\Debug\AljabarConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\zhafi\source\repos\tpmodul10_2311104059\AljabarConsoleApp\obj\Debug\AljabarC.41E26DC2.Up2Date
+C:\Users\zhafi\source\repos\tpmodul10_2311104059\AljabarConsoleApp\obj\Debug\AljabarConsoleApp.exe
+C:\Users\zhafi\source\repos\tpmodul10_2311104059\AljabarConsoleApp\obj\Debug\AljabarConsoleApp.pdb

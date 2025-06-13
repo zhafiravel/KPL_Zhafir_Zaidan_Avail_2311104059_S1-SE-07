@@ -1,0 +1,10 @@
+C:\Users\zhafi\source\repos\jm_modul10_2311104059\ConsoleAppPemanggil\bin\Debug\ConsoleAppPemanggil.exe.config
+C:\Users\zhafi\source\repos\jm_modul10_2311104059\ConsoleAppPemanggil\bin\Debug\ConsoleAppPemanggil.exe
+C:\Users\zhafi\source\repos\jm_modul10_2311104059\ConsoleAppPemanggil\bin\Debug\ConsoleAppPemanggil.pdb
+C:\Users\zhafi\source\repos\jm_modul10_2311104059\ConsoleAppPemanggil\bin\Debug\MatematikaLibraries.dll
+C:\Users\zhafi\source\repos\jm_modul10_2311104059\ConsoleAppPemanggil\bin\Debug\MatematikaLibraries.pdb
+C:\Users\zhafi\source\repos\jm_modul10_2311104059\ConsoleAppPemanggil\obj\Debug\ConsoleAppPemanggil.csproj.AssemblyReference.cache
+C:\Users\zhafi\source\repos\jm_modul10_2311104059\ConsoleAppPemanggil\obj\Debug\ConsoleAppPemanggil.csproj.CoreCompileInputs.cache
+C:\Users\zhafi\source\repos\jm_modul10_2311104059\ConsoleAppPemanggil\obj\Debug\ConsoleA.7A702D96.Up2Date
+C:\Users\zhafi\source\repos\jm_modul10_2311104059\ConsoleAppPemanggil\obj\Debug\ConsoleAppPemanggil.exe
+C:\Users\zhafi\source\repos\jm_modul10_2311104059\ConsoleAppPemanggil\obj\Debug\ConsoleAppPemanggil.pdb

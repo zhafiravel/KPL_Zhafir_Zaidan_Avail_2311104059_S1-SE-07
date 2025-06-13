@@ -1,0 +1,7 @@
+C:\Users\zhafi\source\repos\tpmodul113_2311104059\tpmodul113_2311104059\bin\Debug\tpmodul113_2311104059.exe.config
+C:\Users\zhafi\source\repos\tpmodul113_2311104059\tpmodul113_2311104059\bin\Debug\tpmodul113_2311104059.exe
+C:\Users\zhafi\source\repos\tpmodul113_2311104059\tpmodul113_2311104059\bin\Debug\tpmodul113_2311104059.pdb
+C:\Users\zhafi\source\repos\tpmodul113_2311104059\tpmodul113_2311104059\obj\Debug\tpmodul113_2311104059.csproj.AssemblyReference.cache
+C:\Users\zhafi\source\repos\tpmodul113_2311104059\tpmodul113_2311104059\obj\Debug\tpmodul113_2311104059.csproj.CoreCompileInputs.cache
+C:\Users\zhafi\source\repos\tpmodul113_2311104059\tpmodul113_2311104059\obj\Debug\tpmodul113_2311104059.exe
+C:\Users\zhafi\source\repos\tpmodul113_2311104059\tpmodul113_2311104059\obj\Debug\tpmodul113_2311104059.pdb

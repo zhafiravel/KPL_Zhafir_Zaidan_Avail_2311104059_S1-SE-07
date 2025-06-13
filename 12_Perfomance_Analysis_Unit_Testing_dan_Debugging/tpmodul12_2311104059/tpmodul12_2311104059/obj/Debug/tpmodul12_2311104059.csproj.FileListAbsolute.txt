@@ -1,0 +1,10 @@
+C:\Users\zhafi\source\repos\tpmodul12_2311104059\tpmodul12_2311104059\bin\Debug\tpmodul12_2311104059.exe.config
+C:\Users\zhafi\source\repos\tpmodul12_2311104059\tpmodul12_2311104059\bin\Debug\tpmodul12_2311104059.exe
+C:\Users\zhafi\source\repos\tpmodul12_2311104059\tpmodul12_2311104059\bin\Debug\tpmodul12_2311104059.pdb
+C:\Users\zhafi\source\repos\tpmodul12_2311104059\tpmodul12_2311104059\obj\Debug\tpmodul12_2311104059.csproj.AssemblyReference.cache
+C:\Users\zhafi\source\repos\tpmodul12_2311104059\tpmodul12_2311104059\obj\Debug\tpmodul12_2311104059.Form1.resources
+C:\Users\zhafi\source\repos\tpmodul12_2311104059\tpmodul12_2311104059\obj\Debug\tpmodul12_2311104059.Properties.Resources.resources
+C:\Users\zhafi\source\repos\tpmodul12_2311104059\tpmodul12_2311104059\obj\Debug\tpmodul12_2311104059.csproj.GenerateResource.cache
+C:\Users\zhafi\source\repos\tpmodul12_2311104059\tpmodul12_2311104059\obj\Debug\tpmodul12_2311104059.csproj.CoreCompileInputs.cache
+C:\Users\zhafi\source\repos\tpmodul12_2311104059\tpmodul12_2311104059\obj\Debug\tpmodul12_2311104059.exe
+C:\Users\zhafi\source\repos\tpmodul12_2311104059\tpmodul12_2311104059\obj\Debug\tpmodul12_2311104059.pdb

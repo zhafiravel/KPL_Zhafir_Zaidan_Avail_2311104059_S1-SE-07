@@ -1,0 +1,10 @@
+C:\Users\zhafi\source\repos\jm_modul12_2311104059\jm_modul12_2311104059\bin\Debug\jm_modul12_2311104059.exe.config
+C:\Users\zhafi\source\repos\jm_modul12_2311104059\jm_modul12_2311104059\bin\Debug\jm_modul12_2311104059.exe
+C:\Users\zhafi\source\repos\jm_modul12_2311104059\jm_modul12_2311104059\bin\Debug\jm_modul12_2311104059.pdb
+C:\Users\zhafi\source\repos\jm_modul12_2311104059\jm_modul12_2311104059\obj\Debug\jm_modul12_2311104059.csproj.AssemblyReference.cache
+C:\Users\zhafi\source\repos\jm_modul12_2311104059\jm_modul12_2311104059\obj\Debug\jm_modul12_2311104059.Form1.resources
+C:\Users\zhafi\source\repos\jm_modul12_2311104059\jm_modul12_2311104059\obj\Debug\jm_modul12_2311104059.Properties.Resources.resources
+C:\Users\zhafi\source\repos\jm_modul12_2311104059\jm_modul12_2311104059\obj\Debug\jm_modul12_2311104059.csproj.GenerateResource.cache
+C:\Users\zhafi\source\repos\jm_modul12_2311104059\jm_modul12_2311104059\obj\Debug\jm_modul12_2311104059.csproj.CoreCompileInputs.cache
+C:\Users\zhafi\source\repos\jm_modul12_2311104059\jm_modul12_2311104059\obj\Debug\jm_modul12_2311104059.exe
+C:\Users\zhafi\source\repos\jm_modul12_2311104059\jm_modul12_2311104059\obj\Debug\jm_modul12_2311104059.pdb

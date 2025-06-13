@@ -1,0 +1,6 @@
+C:\Users\zhafi\source\repos\tpmodul10_2311104059\AljabarLibraries\bin\Debug\AljabarLibraries.dll
+C:\Users\zhafi\source\repos\tpmodul10_2311104059\AljabarLibraries\bin\Debug\AljabarLibraries.pdb
+C:\Users\zhafi\source\repos\tpmodul10_2311104059\AljabarLibraries\obj\Debug\AljabarLibraries.csproj.AssemblyReference.cache
+C:\Users\zhafi\source\repos\tpmodul10_2311104059\AljabarLibraries\obj\Debug\AljabarLibraries.csproj.CoreCompileInputs.cache
+C:\Users\zhafi\source\repos\tpmodul10_2311104059\AljabarLibraries\obj\Debug\AljabarLibraries.dll
+C:\Users\zhafi\source\repos\tpmodul10_2311104059\AljabarLibraries\obj\Debug\AljabarLibraries.pdb

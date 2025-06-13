@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zhafi\\source\\repos\\jm_modul10_2311104059\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D54DC0B1-0A91-48D3-957F-C3E127432C09}|ConsoleAppPemanggil\\ConsoleAppPemanggil.csproj|c:\\users\\zhafi\\source\\repos\\jm_modul10_2311104059\\consoleapppemanggil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54DC0B1-0A91-48D3-957F-C3E127432C09}|ConsoleAppPemanggil\\ConsoleAppPemanggil.csproj|solutionrelative:consoleapppemanggil\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A2EFC3-9B76-42AF-9CBF-0B62AB750F63}|MatematikaLibraries\\MatematikaLibraries.csproj|c:\\users\\zhafi\\source\\repos\\jm_modul10_2311104059\\matematikalibraries\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A2EFC3-9B76-42AF-9CBF-0B62AB750F63}|MatematikaLibraries\\MatematikaLibraries.csproj|solutionrelative:matematikalibraries\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zhafi\\source\\repos\\jm_modul10_2311104059\\ConsoleAppPemanggil\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppPemanggil\\Program.cs",
+              "ToolTip": "C:\\Users\\zhafi\\source\\repos\\jm_modul10_2311104059\\ConsoleAppPemanggil\\Program.cs",
+              "RelativeToolTip": "ConsoleAppPemanggil\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:32:37.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\zhafi\\source\\repos\\jm_modul10_2311104059\\MatematikaLibraries\\Class1.cs",
+              "RelativeDocumentMoniker": "MatematikaLibraries\\Class1.cs",
+              "ToolTip": "C:\\Users\\zhafi\\source\\repos\\jm_modul10_2311104059\\MatematikaLibraries\\Class1.cs",
+              "RelativeToolTip": "MatematikaLibraries\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:31:37.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
